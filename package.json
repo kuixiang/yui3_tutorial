@@ -1,0 +1,22 @@
+{
+  "name": "yui3_tutorial",
+  "version": "0.1.0",
+  "description": "yui3 tutorial for developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuixiang/yui3_tutorial.git"
+  },
+  "keywords": [
+    "yui3",
+    "js"
+  ],
+  "author": "itxiangkui@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/kuixiang/yui3_tutorial/issues"
+  }
+}
